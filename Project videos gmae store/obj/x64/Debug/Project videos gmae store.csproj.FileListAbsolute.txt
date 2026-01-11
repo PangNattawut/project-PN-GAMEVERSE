@@ -1,0 +1,71 @@
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\THSarabunNew.ttf
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\linux-x64\native\libqpdf.so
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x64\native\qpdf.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x64\native\zlib1.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x86\native\qpdf.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\runtimes\win-x86\native\zlib1.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Project videos gmae store.exe.config
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Project videos gmae store.exe
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Project videos gmae store.pdb
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Guna.UI2.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\MySql.Data.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\QRCoder.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\QuestPDF.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Google.Protobuf.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Zstandard.Net.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\BouncyCastle.Crypto.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Ubiety.Dns.Core.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\Renci.SshNet.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\System.Buffers.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\K4os.Compression.LZ4.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\K4os.Hash.xxHash.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\MySql.Data.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\QRCoder.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\QuestPDF.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.csproj.SuggestedBindingRedirects.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.exe.config
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.admin_index.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.admin_userform.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.CartItemCard.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.detail_product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.insert_product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.login.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.OrderHistoryItemCard.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.PaymentForm.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.ProductCard.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.profile_index.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.profile_inpanel.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.profile_update.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.Properties.Resources.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.register.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.update_product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.userprofile.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project_videos_gmae_store.user_index.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.csproj.GenerateResource.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project .4774BE2D.Up2Date
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.exe
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\x64\Debug\Project videos gmae store.pdb

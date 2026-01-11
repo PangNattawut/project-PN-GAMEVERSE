@@ -1,0 +1,54 @@
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Project videos gmae store.exe.config
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Project videos gmae store.exe
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Project videos gmae store.pdb
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Guna.UI2.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\MySql.Data.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\QRCoder.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Google.Protobuf.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Zstandard.Net.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\Renci.SshNet.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\System.Buffers.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\MySql.Data.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\QRCoder.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.csproj.SuggestedBindingRedirects.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.exe.config
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.admin_index.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.admin_userform.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.CartItemCard.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.detail_product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.insert_product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.login.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.OrderHistoryItemCard.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.PaymentForm.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.ProductCard.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.profile_index.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.profile_inpanel.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.profile_update.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.Properties.Resources.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.register.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.update_product.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.userprofile.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.user_index.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.csproj.GenerateResource.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project .4774BE2D.Up2Date
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.exe
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project videos gmae store.pdb
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.dashboard_sales_report.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.ForgotPasswordForm.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.Admin_OrdersControl.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\obj\Debug\Project_videos_gmae_store.AboutUsForm.resources
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\itextsharp.dll
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\NITRO 5\source\repos\Project videos gmae store\Project videos gmae store\bin\Debug\itextsharp.xml
